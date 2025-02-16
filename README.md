@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho com front-end
 - 🌱 Estudando Typescript e Angular
-- 😄 Pronome ele/dele
+- 😄 Masculino
 
 <a href="https://github.com/GabrielGCSOARES/github-readme-stats">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielGCSOARES&theme=midnight-purple" />
