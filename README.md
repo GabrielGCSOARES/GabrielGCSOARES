@@ -4,10 +4,10 @@
 - 🌱 Estudando Typescript e Angular
 - 😄 Masculino
 
-<a href="https://github.com/GabrielGCSOARES/github-readme-stats">
+<a href="https://github.com/GabrielGCSOARES">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielGCSOARES&theme=midnight-purple" />
 </a>
-<a href="https://github.com/GabrielGCSOARES/convoychat">
+<a href="https://github.com/GabrielGCSOARES/">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielGCSOARES&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
 </a>
 
