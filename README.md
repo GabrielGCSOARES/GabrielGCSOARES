@@ -5,10 +5,10 @@
 - 😄 Masculino
 
 <a href="https://github.com/GabrielGCSOARES">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielGCSOARES&theme=midnight-purple" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielGCSOARES&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/GabrielGCSOARES/">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielGCSOARES&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielGCSOARES&layout=compact&langs_count=16&card_width=320&theme=midnight-purple" />
 </a>
 
 <div style="display: inline_block"><br>
