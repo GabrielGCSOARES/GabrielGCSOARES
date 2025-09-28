@@ -1,7 +1,7 @@
 ## Olá prazer eu sou Gabriel 
 
 - 🔭 Trabalho com front-end
-- 🌱 Estudando JavaScript, C, Python 
+- 🌱 Estudando JavaScript, React,C 
 - 😄 Masculino
 
 <a href="https://github.com/GabrielGCSOARES">
