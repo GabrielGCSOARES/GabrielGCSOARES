@@ -1,4 +1,4 @@
-## Olá prazer eu sou Gabriel 
+## Olá prazer eu sou Gabriel Garcia
 
 - 🔭 Estudo front-end e back-end
 - 🌱 Estudando React, Typescript, Laravel,C e Mysql 
