@@ -1,7 +1,7 @@
 ## Olá prazer eu sou Gabriel Garcia
 
 - 🔭 Estudo front-end e back-end
-- 📘 Estudando React, Typescript, Laravel,C e Mysql 
+- 📘 Estudando React ,React native , Laravel,C, Mysql, Python 
 - 😄 Masculino
 
 <a href="https://github.com/GabrielGCSOARES">
